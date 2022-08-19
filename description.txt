@@ -1,1 +1,2 @@
 First line from git
+This is new line
