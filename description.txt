@@ -1,2 +1,3 @@
 First line from git
 This is new line
+Line in new branch
